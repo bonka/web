@@ -1,0 +1,15 @@
+{
+  "name": "bare-form-website",
+  "version": "1.0.0",
+  "description": "Personal brand website for Bjørn Molstad using question-based positioning",
+  "scripts": {
+    "dev": "serve .",
+    "build": "echo 'No build step required for static site'"
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
