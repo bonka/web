@@ -1,6 +1,6 @@
 # Bare Form Website
 
-A personal brand website for Bjørn Molstad using a question-based positioning strategy that leverages filmmaking metaphors to create a distinctive personal brand.
+A personal brand website for Bjørn Molstad using a question-based positioning strategy that leverages filmmaking metaphors to create a distinctive personal brand!
 
 ## Overview
 
